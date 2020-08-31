@@ -1,0 +1,19 @@
+IN2010, Oblig 1, 18.09.2020
+IN2010, Oblig 2, 09.10.2020
+IN2010, Oblig 3, 06.11.2020
+IN2010, Eksamen, 10.12.2020
+IN2090, Oblig 1 - Modellering, 24.09.2020
+IN2090, Oblig 2 - Enkel SQL, 08.10.2020
+IN2090, Oblig 3 - Normalformer, 22.10.2020
+IN2090, Oblig 4 - Avansert SQL, 05.11.2020
+IN2090, Oblig 5 - Programmering med SQL, 19.11.2020
+IN2090, Eksamen, 16.12.2020
+IN3110, Oblig 1, 28.08.2020
+IN3110, Oblig 2, 04.09.2020
+IN3110, Oblig 3, 11.09.2020
+IN3110, Oblig 4, 30.09.2020
+IN3110, Peer-review 4, 07.10.2020
+IN3110, Oblig 5, 28.10.2020
+IN3110, Peer-review 5, 04.11.2020
+IN3110, Oblig 6, 25.11.2020
+IN3110, Peer-review 6, 02.12.2020
